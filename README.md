@@ -10,10 +10,3 @@ Skills: Python,Django,Django Rest Framework,Postgresql,Mongodb,Pytest,Redis
 - 📫 How to reach me: https://www.linkedin.com/in/abidurrahman-khanjim-b088a2137/ 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/JimRh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abidurrahman-khanjim-b088a2137//)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/JimRh)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/JimRh)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/JimRh)  
